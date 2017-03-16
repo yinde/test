@@ -24,7 +24,7 @@ import io.swagger.annotations.ApiOperation;
 @RequestMapping(value="/users")     // 通过这里配置使下面的映射都在/users下 
 public class UserController { 
 
-    // 创建线程安全的Map辅导辅导辅导
+    // 创建线程安全的Map
     static Map<Long, User> users = Collections.synchronizedMap(new HashMap<Long, User>()); 
     
     @ApiOperation(value="获取用户列表", notes="")
