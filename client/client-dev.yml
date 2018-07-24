@@ -4,4 +4,4 @@ spring:
   application:
     name: client
 aa:
-  bb: 22222
+  bb: 333333
