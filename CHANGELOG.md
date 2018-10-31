@@ -2,9 +2,15 @@
 #  (2018-10-31)
 
 
+
+<a name="1.0.3"></a>
+## [1.0.3](/compare/1.0.2...1.0.3) (2018-10-31)
+
+
 ### Bug Fixes
 
 * **loation:** 修改了bug bd8b35c
+* **location:** 修改bug1,2,3,4,5,6 3e8c9d5
 
 
 ### Features
