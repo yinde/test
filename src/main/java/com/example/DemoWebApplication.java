@@ -12,7 +12,7 @@ public class DemoWebApplication {
 
     @RequestMapping("/methodPath")
     public String greeting() {
-        return "Hello World!111111111111abcdddfff";
+        return "Hello World!111111111111";
     }
     
 	public static void main(String[] args) {
