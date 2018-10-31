@@ -2,6 +2,11 @@
 #  (2018-10-31)
 
 
+### Bug Fixes
+
+* **loation:** 修改了bug bd8b35c
+
+
 ### Features
 
 * **location:** 接入登录API 9ed08cc
