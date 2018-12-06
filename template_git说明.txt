@@ -35,4 +35,4 @@
 #
 
 
-
+git config --global commit.template .template_git
